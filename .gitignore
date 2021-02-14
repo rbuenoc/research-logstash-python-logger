@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+
+# VS Code
+.vscode
+
+# Configuration
+config*.yml
+!config.template.yml
+
+# Environment
+.env
+.venv
+
+# Application
+stage
+logs
+
+
+# Libraries
+node_modules
+
+# Config
+config*.yml
+!config.template.yml
+
+# Build
+dist
+dist.zip
+
+# Editor
+.vscode
+
+# OS
+.DS_Store

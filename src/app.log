@@ -1,0 +1,7 @@
+2020-11-23 09:31:09,021 default ERROR - __main__ - Something goes wrong
+Traceback (most recent call last):
+  File ".\main.py", line 7, in <module>
+    process_data()
+  File "D:\Ricardo\Development\Projects\Research\python\logging\src\services\process\data.py", line 11, in process_data
+    raise Exception('Something goes wrong')
+Exception: Something goes wrong
